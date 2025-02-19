@@ -1,3 +1,5 @@
+package no_pattern;
+
 public class NoPattern {
     public static void main(String[] args) {
         var stockData = new StockDataCommom();

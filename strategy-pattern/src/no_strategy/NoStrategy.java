@@ -1,3 +1,5 @@
+package no_strategy;
+
 public class NoStrategy {
     public static void main(String[] args) {
         var paymentMethodCode = 1;

@@ -1,3 +1,5 @@
+package common_strategy;
+
 public class CommonStrategy {
 
     public static void main(String[] args ) {

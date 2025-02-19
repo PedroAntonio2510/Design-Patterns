@@ -1,3 +1,5 @@
+package modern_strategy;
+
 import java.util.function.Consumer;
 
 public class ModernStrategy {
